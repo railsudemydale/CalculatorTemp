@@ -172,4 +172,5 @@ public class MainActivity extends AppCompatActivity {
     public String returnName() {
         return "Stosh was here";
     }
+    //This is a comment to test the GIT pull process for Android Studio.
 }
